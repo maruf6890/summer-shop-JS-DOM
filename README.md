@@ -16,5 +16,6 @@ Key Features
 Add Shopping Products: Users can browse and add products to a cart list.
 Coupon Form: Includes a form to enter a coupon code (SELL200). Verification of this code applies a 20% discount to the total price.
 Reset Functionality: After completing a purchase, the website resets all changed values to their initial states.
-Screenshot:
-https://www.google.com/imgres?q=ben%20ten&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fb%2Fbf%2FBen_Tennyson.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBen_Tennyson&docid=Za0GX3c7SYxcRM&tbnid=1X-nTxf6CtRuHM&vet=12ahUKEwii2Y7-lZqHAxXWZmwGHb89DJwQM3oECBkQAA..i&w=421&h=237&hcb=2&ved=2ahUKEwii2Y7-lZqHAxXWZmwGHb89DJwQM3oECBkQAA
+Screenshot
+-------------
+![Screenshot_9-7-2024_202554_127 0 0 1](https://github.com/maruf6890/summer-shop-js-dom/assets/137112466/462652ba-0c53-468e-9cf1-cbfcfd7e98c3)
