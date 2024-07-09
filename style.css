@@ -1,0 +1,38 @@
+.rating input{
+width: 1.2rem;
+}
+.cupon-box input {
+    border-right: none;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding: 5px;
+  }
+  
+  .cupon-box input:focus {
+    border: 1px solid #ddd;
+    box-shadow: none;
+    background: none;
+    outline: none;
+  }
+.cupon-box button{
+border-radius: 5px;
+border-top-left-radius: 0px;
+border-bottom-left-radius: 0px;
+
+}
+.card figure img{
+    width:40%;
+    height:80px;
+}
+hr{
+  margin:10px 0px !important;
+}
+.cart p{
+color:#545454;
+font-family:"Work Sans";
+font-weight: 400;
+font-size: medium;
+
+}
