@@ -6,10 +6,10 @@ Summer Shop is a front-end development project utilizing basic JavaScript manipu
 
 Tools and Languages Used
 ------------------------
-HTML
-CSS (with Tailwind CSS)
-Daisy UI (for UI components)
-JavaScript
+-HTML
+-CSS (with Tailwind CSS)
+-Daisy UI (for UI components)
+-JavaScript
 
 Key Features
 -------------
